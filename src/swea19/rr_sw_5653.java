@@ -42,7 +42,7 @@ class Cell implements Comparable<Cell> {
 	}
 }
 
-public class sw_5653 {
+public class rr_sw_5653 {
 
 	static int T;
 	static int N, M, K;
